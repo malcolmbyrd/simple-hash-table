@@ -1,2 +1,2 @@
 # simple-hash-table
-a simple hash table implementation
+A simple hash table implementation.
